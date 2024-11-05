@@ -19,18 +19,14 @@ Users should be able to:
 
 ### Desktop design
 
-![](./myDeskPreview.png)
-
-## Mobile design
-
-![](./myMobilePreview.png)
+![](./screenshot.png)
 
 
 ### Links
 
 - Solution URL: [https://github.com/abdulkadir023/Simple-counter](https://github.com/abdulkadir023/Simple-counter)
-- Live Site URL: [https://social-links-profiles-o2656fsd7-abdulkadir023s-projects.vercel.app/](https://social-links-profiles-o2656fsd7-abdulkadir023s-projects.vercel.app/)
+- Live Site URL: [https://counter-abdulkadir023s-projects.vercel.app/](https://counter-abdulkadir023s-projects.vercel.app/)
 
 ## Author
 
-- Frontend Mentor - [@abdulkadir023](https://github.com/abdulkadir023/)
+- GitHub - [@abdulkadir023](https://github.com/abdulkadir023/)
