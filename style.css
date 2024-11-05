@@ -40,16 +40,31 @@ button:hover {
     background-color: #EC8305;
 }
 h1 {
-    color: #EC8305;
-    
+    color: #EC8305;  
+    margin: 1rem; 
 }
+
 h3 {
     color: #EC8305;
 }
-h1, h2, h3 {
+h2, h3 {
     font-size: 3.5rem;
 }
 .reset {
     background-color: #F95454;
 }
+
+#footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+    letter-spacing: 0.02em;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+  }
+
+
 

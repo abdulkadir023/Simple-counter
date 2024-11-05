@@ -35,3 +35,6 @@ decreasebtn.onclick = function() {
     counter.textContent = count;
  }
 
+
+
+
