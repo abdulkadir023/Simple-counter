@@ -17,9 +17,8 @@ Users should be able to:
 
  ### Screenshot
 
-### Desktop design
 
-![](./screenshot.png)
+![](./images/screenshot.png)
 
 
 ### Links
