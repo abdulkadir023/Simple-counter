@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Itim", cursive;
+    font-weight: 500;
+    font-style: normal;
+    color: white;
+    background-color: #091057;
+}
+main {
+    text-align: center;
+    margin-top: 3rem;
+    line-height: 1.9;
+    letter-spacing: 0.05em;
+    
+}
+main span {
+    color: #DBD3D3;
+}
+
+span {
+    color: #DBD3D3;
+}
+button {
+    padding: 1em;
+    margin-top: 2rem;
+    font-family: "Itim", cursive;
+    font-weight: 700;
+    font-size: 1.4rem;
+    border-radius: 1rem;
+    background-color: #DBD3D3;
+    box-shadow: 10px 10px  #F95454; 
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #EC8305;
+}
+h1 {
+    color: #EC8305;
+    
+}
+h3 {
+    color: #EC8305;
+}
+h1, h2, h3 {
+    font-size: 3.5rem;
+}
+.reset {
+    background-color: #F95454;
+}
+
